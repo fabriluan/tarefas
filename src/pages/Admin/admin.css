@@ -1,0 +1,53 @@
+.list_task{
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.list_task span{
+    font-size: 24px;
+}
+.group_btn{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.group_btn button{
+    width: 100px;
+    font-size: 16px;
+    height: 40px;
+    outline: none;
+    border: 1px solid #da0000;
+    border-radius: 0.3rem;
+    background-color: #ce0000;
+    color: white;
+}
+.group_btn button:hover{
+    background-color: #da0000;
+}
+.group_btn span{
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(184, 184, 0);
+    text-decoration: underline;
+    margin: 0 20px;
+}
+.group_btn span:hover{
+    color: rgb(228, 228, 0);
+}
+h2.sair{
+    position: fixed ;
+    bottom: 5%;
+    left: 5%;
+    cursor: pointer;
+    background-color: #ce0000;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3.5rem;
+}
+h2.sair:hover{
+    background-color: #da0000;
+}

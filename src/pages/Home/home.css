@@ -1,0 +1,51 @@
+.section_home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.section_home > .center{
+    text-align: center;
+}
+.section_home h1{
+    font-size: 40px;
+}
+.section_home p{
+    font-size: 19px;
+    margin: 2px 0 20px 0;
+}
+.form_all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.form_all input, .form_all button{
+    width: 60%;
+    height: 50px;
+    padding: 5px;
+    font-size: 19px;
+    outline: none;
+    border: 1px solid #0088c7;
+    border-radius: 0.3rem;
+    margin: 5px 0;
+}
+.form_all textarea{
+    width: 60%;
+    height: 200px;
+    padding: 5px;
+    margin: 20px 0 ;
+    font-size: 19px;
+    margin-bottom: 30px;
+    resize: none;
+}
+.form_all button{
+    color: white;
+    background-color: #00a0eb;
+}
+.form_all button:hover{
+    background-color: #0088c7;
+}
+.section_home a{
+    color: #fff;
+}
