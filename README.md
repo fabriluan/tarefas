@@ -36,7 +36,7 @@
 <ul>
     <li>Instalar node em sua máquina</li>
     <li>Abrir projeto e dar npm start</li>
-    <li>Ou vocẽ pode abrir o projeto na web <a href="https://tarefascomloginflzc.netlify.app/">Clicando aqui!</a></li>
+    <li>Ou vocẽ pode abrir o projeto na web <a href="https://tarefascomloginflzc.netlify.app/" target="_blank">Clicando aqui!</a></li>
 
 </ul>
 
@@ -49,6 +49,6 @@
 ## Contato 📞
 
 <ul>
-    <li><a href="https://github.com/fabriluan">Github</a></li>
-    <li><a href="https://www.linkedin.com/in/fabricio-cipriano-a72672248/">Linkedin</a></li>
+    <li><a href="https://github.com/fabriluan" target="_blank">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/fabricio-cipriano-a72672248/" target="_blank">Linkedin</a></li>
 </ul>
